@@ -16,11 +16,16 @@ Data analysis of covid19india data
 -> CoviShield Vaccines are Administered 87.8% whereas Covaxin Vaccines are Administered 12.2%.
 ![Image alt text](images/per_vac.png?raw=true)
 
+
+
 ->	In India, In total vaccination, 54% of males and 46% of females vaccinated.
+
+
 
 ![Image alt text](images/vac_gen.png?raw=true)
 
 ->	When it comes to Vaccination by age, 6,50,76,837 above 60+ age, 8,57,86,352 between 18-45 age and 7,13,42,751 between 18-45 age persons have been vaccinated.
+
 ![Image alt text](images/vac_age.png?raw=true)
 
 ->	22,23,16,897 number of  First Dose and 4,95,16,745 number of Second Dose Administered Till now.

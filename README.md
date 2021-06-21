@@ -25,6 +25,8 @@ Data analysis of covid19india data
 
 ->	22,23,16,897 number of  First Dose and 4,95,16,745 number of Second Dose Administered Till now.
 ![Image alt text](images/vac_12.png?raw=true)
+
+
  Detailed Anlysis inside the python file.
  
  Thank you.
